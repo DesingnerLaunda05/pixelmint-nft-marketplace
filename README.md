@@ -6,6 +6,16 @@ PixelMint is a decentralized, high-fidelity Web3 NFT marketplace built for disco
 
 ---
 
+## 📄 Product Requirements Document (PRD)
+
+The complete, recruiter-ready Product Requirements Document (PRD) and Technical Governance Retrospective for PixelMint is available directly in the repository:
+
+- 📖 **[Read PRD Online (Markdown)](PRD/PixelMint_PRD_Final.md)** — Recruiter-ready specification covering codebase implementation audit, deceptive UI remediation, user journeys, scope horizons, and strategic PM retrospective.
+- 📥 **[Download PRD (PDF)](PRD/PixelMint_PRD_Final.pdf)** — Executive layout document (11 pages).
+- 📝 **[Download PRD (Word DOCX)](PRD/PixelMint_PRD_Final.docx)** — Editable source specification document.
+
+---
+
 ## ✨ Features
 
 - **⚡ Instant Checkout & Web3 Gas Estimation**: Complete purchase flow with simulated atomic smart contract settlement, gas price calculation, and balance checking.
