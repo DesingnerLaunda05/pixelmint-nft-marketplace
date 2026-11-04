@@ -6,20 +6,20 @@ PixelMint is a decentralized, high-fidelity Web3 NFT marketplace built for disco
 
 ---
 
-## ✨ Features
+## Features
 
-- **⚡ Instant Checkout & Web3 Gas Estimation**: Complete purchase flow with simulated atomic smart contract settlement, gas price calculation, and balance checking.
-- **🔨 Timed Auctions & Live Bidding**: Real-time bid increments (+0.1, +0.5, +1.0 ETH), countdown timers, and bidder activity logs.
-- **🎨 Creator Studio & Minting Protocol**: Upload custom digital artworks (PNG, JPG, WebP) with drag-and-drop or select from generative sample presets. Configure creator royalty splits (up to 20%), target blockchain, listing format, and custom ERC-721 metadata attributes.
-- **🔍 Advanced Discovery & Filtering**: Real-time search by title, artist, or collection. Dynamic filters for Sale Type (*Fixed Price* vs *Auction*), *Verified Only* creators, and an interactive ETH price range slider.
-- **👛 Multi-Wallet Web3 Support**: Simulated connection interface for MetaMask, Coinbase Wallet, Phantom, WalletConnect, and Rainbow with multi-chain switching (*Ethereum*, *Polygon*, *Arbitrum*, *Solana*).
-- **🚰 Integrated Test Faucet**: 1-click test faucet (`+5 ETH`) to easily test buying and bidding flows.
-- **📊 Collector Profile & Portfolio Analytics**: Real-time portfolio valuation, collected items, created artworks, favorited items, and on-chain activity timeline.
-- **💾 Persistent State**: All actions (minting, buying, bidding, favoriting, profile edits) automatically persist to `localStorage`.
+- **Instant Checkout & Web3 Gas Estimation**: Complete purchase flow with simulated atomic smart contract settlement, gas price calculation, and balance checking.
+- **Timed Auctions & Live Bidding**: Real-time bid increments (+0.1, +0.5, +1.0 ETH), countdown timers, and bidder activity logs.
+- **Creator Studio & Minting Protocol**: Upload custom digital artworks (PNG, JPG, WebP) with drag-and-drop or select from generative sample presets. Configure creator royalty splits (up to 20%), target blockchain, listing format, and custom ERC-721 metadata attributes.
+- **Advanced Discovery & Filtering**: Real-time search by title, artist, or collection. Dynamic filters for Sale Type (*Fixed Price* vs *Auction*), *Verified Only* creators, and an interactive ETH price range slider.
+- **Multi-Wallet Web3 Support**: Simulated connection interface for MetaMask, Coinbase Wallet, Phantom, WalletConnect, and Rainbow with multi-chain switching (*Ethereum*, *Polygon*, *Arbitrum*, *Solana*).
+- **Integrated Test Faucet**: 1-click test faucet (`+5 ETH`) to easily test buying and bidding flows.
+- **Collector Profile & Portfolio Analytics**: Real-time portfolio valuation, collected items, created artworks, favorited items, and on-chain activity timeline.
+- **Persistent State**: All actions (minting, buying, bidding, favoriting, profile edits) automatically persist to `localStorage`.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
 - **Bundler & Tooling**: [Vite 7](https://vite.dev/)
@@ -29,7 +29,7 @@ PixelMint is a decentralized, high-fidelity Web3 NFT marketplace built for disco
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
